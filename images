@@ -1,1 +1,18 @@
-
+매탄도매폰/
+│
+├── index.html
+├── style.css
+├── script.js
+├── README.md
+│
+└── images/
+    ├── hero.jpg            ← 메인 배경
+    ├── logo.png            ← 매장 로고
+    ├── galaxy.png          ← 갤럭시
+    ├── iphone.png          ← 아이폰
+    ├── internet.jpg        ← 인터넷TV
+    ├── store.jpg           ← 매장사진
+    ├── event.jpg           ← 이벤트
+    ├── kakao.png           ← 카카오톡
+    ├── phone.png           ← 전화
+    └── map.jpg             ← 지도
